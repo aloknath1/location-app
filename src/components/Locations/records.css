@@ -1,0 +1,31 @@
+.button{
+    cursor:pointer;
+}
+.edit_icon{
+    color: orange;
+}
+.delete_icon{
+    color: red;
+}
+
+.MuiDialog-paperScrollPaper{
+    width:600px;
+}
+
+.MuiFormControl-root{
+    float:left;
+    margin:0 5px !important;
+    min-width:290px !important;
+}
+.MuiDialog-paperWidthSm{
+    padding:20px;
+}
+.buttons-div{
+    width:100%;
+    padding:10px;
+    display:inline-block;
+}
+
+.mr{
+    margin-right:10px;
+}

@@ -1,0 +1,100 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #4e73df;
+  min-height: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-bottom:10px;
+}
+
+.App-header p{
+  margin:0;
+}
+
+.dashboard{
+  width:100%;
+  margin:0;
+  padding:0;
+}
+
+.no-image{
+  width:750px;
+  margin:20px;
+}
+
+.MuiTableContainer-root{
+  margin-top: 20px;
+}
+
+.timezone-div{
+  position: relative;
+  float: left;
+
+}
+.css-2b097c-container{
+  width:300px;
+}
+
+#add-location div{
+  width:260px;
+  float:left;
+  margin:0 10px;
+}
+
+.input-lbl{
+  width: 100%;
+  padding:6px 0 7px;
+  color:rgba(0, 0, 0, 0.87);
+
+}
+.dropdown{
+  align-items: center;
+    background-color: hsl(0,0%,100%);
+    border-color: hsl(0,0%,80%);
+    border-radius: 4px;
+    border-style: solid;
+    border-width: 1px;
+    cursor: default;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+    min-height: 38px;
+    outline: 0 !important;
+    position: relative;
+    -webkit-transition: all 100ms;
+    transition: all 100ms;
+    box-sizing: border-box;
+}
+
+/******* phone number ***************/
+.react-tel-input{
+  height:40px;
+}
+.react-tel-input .form-control{
+  height:35px !important;
+  position: absolute !important;
+}
+
+.react-tel-input .flag-dropdown{
+  height:35px;
+  top:48px;
+  left:300px;
+}
+.react-tel-input .selected-flag{
+  height:30px;
+}
