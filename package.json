@@ -17,7 +17,7 @@
     "react-js-pagination": "^3.0.3",
     "react-phone-input-2": "^2.13.7",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.1",
     "react-select-material-ui": "^6.7.0",
     "react-select-us-states": "^0.1.2",
     "react-timezone-select": "^0.8.3",
